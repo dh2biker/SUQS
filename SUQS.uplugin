@@ -4,7 +4,7 @@
 	"VersionName" : "1.0",
 	"FriendlyName" : "Steve's Unreal Quest System (SUQS)",
 	"Description" : "Data-driven quest system for UE5",
-	"Category" : "Code Utilities",
+	"Category" : "Gameplay",
 	"CreatedBy" : "Steve Streeting",
 	"CreatedByURL" : "https://www.stevestreeting.com",
 	"DocsURL" : "",
